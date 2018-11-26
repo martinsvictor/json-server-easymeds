@@ -1,4 +1,24 @@
 {
+  "users": [
+    {
+      "id": "1",
+      "userName": "admin",
+      "password": "password",
+      "nome": "Victor Martins",
+      "email": "victor.martin@icloud.com",
+      "address": "Rua Renato Rinaldi",
+      "number": "650"
+    },
+    {
+      "id": "2",
+      "userName": "tomaz",
+      "password": "tomazppads",
+      "nome": "Tomaz Mikio Sasaki",
+      "email": "tomaz.sasaki@mackenzie.br",
+      "address": "Rua Barra do Chapeu",
+      "number": "1234"
+    }
+  ],
   "drugstores": [
     {
       "id": "drogaraia",
